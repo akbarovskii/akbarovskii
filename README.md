@@ -29,11 +29,11 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kwaize&theme=konata&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kwaize&theme=blue&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
 ###
 
 <p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Kwaize&theme=konatl&no-frame=true&no-bg=true&margin-w=4">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Kwaize&theme=blue&no-frame=true&no-bg=true&margin-w=4">
 </p>
