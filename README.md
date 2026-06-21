@@ -1,4 +1,4 @@
-<h1 align="center">🔪 Kwaize 🩸 </h1>
+<h1 align="center">🔪 akbarovski 🩸 </h1>
 
 ###
 
