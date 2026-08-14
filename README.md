@@ -31,7 +31,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=akbarovskii&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&locale=ru"&v=1>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=akbarovskii&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
 ###
