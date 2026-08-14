@@ -1,4 +1,4 @@
-<h1 align="center">🌟 akbarovski 🌟 </h1>
+<h1 align="center">💻 akbarovski 💻 </h1>
 
 ###
 
@@ -31,12 +31,12 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=akbarovskii&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&locale=ru&include_all_commits=true&v=1001">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=akbarovskii&&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true&locale=ru&include_all_commits=true&v=1001">
 </p>
 
 ###
 
 <p align="center">
-  <<img src="https://github-trophies.vercel.app/?username=akbarovskii&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4">
+  <<img src="https://github-trophies.vercel.app/?username=akbarovskii&&theme=shades-of-purple&no-frame=true&no-bg=true&margin-w=4">
 </p>
 
