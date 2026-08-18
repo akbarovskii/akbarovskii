@@ -37,6 +37,6 @@
 ###
 
 <p align="center">
-  <<img src="https://github-trophies.vercel.app/?username=akbarovskii&&theme=github_dark&no-frame=true&no-bg=true&margin-w=4">
+  <<img src="https://github-trophies.vercel.app/?username=akbarovskii&&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&row=1">
 </p>
 
