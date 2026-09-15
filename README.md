@@ -72,9 +72,3 @@
 ### 🎨 Design
 
 - **[My-infographics-for-marketplaces](https://github.com/akbarovskii/My-infographics-for-marketplaces)** — Design concepts and infographics created in Figma.
-
----
-
-<div align="center">
-  <i>🖥️ From <a href="https://github.com/akbarovskii">akbarovskii</a></i>
-</div>
